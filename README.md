@@ -46,9 +46,8 @@ Before running the program, make sure you have Python installed on your system.
 
 Here's an example of how to use the program:
 
-```bash
+
 python discord_webhook_sender.py
-```
 
 Enter the following details:
 
@@ -66,7 +65,6 @@ The program will send the customized message to the specified webhook.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Replace `"https://discord.com/api/webhooks/your-webhook-url"` in the example with your actual Discord webhook URL.
 
