@@ -10,7 +10,7 @@ Before running the program, make sure you have Python installed on your system.
 
 ### Installation
 
-1. Clone this repository or download the `discord_webhook_sender.py` file.
+1. Clone this repository or download the `main.py` file.
 
 2. Install the required libraries if you haven't already. You can do this using pip:
 
@@ -23,7 +23,7 @@ Before running the program, make sure you have Python installed on your system.
 1. Run the Python script:
 
    ```bash
-   python discord_webhook_sender.py
+   python main.py
    ```
 
 2. Follow the prompts to input the following details:
