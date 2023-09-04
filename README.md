@@ -1,4 +1,3 @@
-```markdown
 # Discord Webhook Sender
 
 This Python program allows you to send messages to a Discord webhook with full customization options. You can specify the webhook URL, message content, username, avatar URL, and even use an embed if you'd like.
